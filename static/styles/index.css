@@ -1,0 +1,16 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+main {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
