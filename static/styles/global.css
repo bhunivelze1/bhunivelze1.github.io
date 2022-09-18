@@ -1,1 +1,11 @@
 @import url('./utility.css');
+
+body {
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
+}
+
+body * {
+    box-sizing: border-box;
+}
